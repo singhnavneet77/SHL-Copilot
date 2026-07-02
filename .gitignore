@@ -29,3 +29,6 @@ htmlcov/
 
 Thumbs.db
 .DS_Store
+
+# Hide approach document
+approach_document.md
