@@ -1,4 +1,14 @@
+---
+title: SHL Assessment Recommendation Agent
+emoji: 🤖
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # SHL Assessment Recommendation Agent
+
 
 ## Setup & Run Instructions
 
